@@ -12,7 +12,7 @@ To run the app :
 
 => Open the project in the Android Studio.
 
-=> Open "pubspec.yaml" and run, That's all.
+=> Open "pubspec.yaml" and get packages and run, That's all.
 
 Check Webapp
 
