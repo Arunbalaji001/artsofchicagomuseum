@@ -8,6 +8,9 @@ This app works in Android, iOS and works as website also.
 
 To run the app :
 
-=> Have a Android Studio with flutter configured.\n
-=> Open the project in the Android Studio.\n
-=> Open "pubspec.yaml" and run, That's all.\n
+=> Have a Android Studio with flutter configured.
+
+=> Open the project in the Android Studio.
+
+=> Open "pubspec.yaml" and run, That's all.
+
