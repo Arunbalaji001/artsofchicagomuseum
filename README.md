@@ -1,4 +1,4 @@
-# artsofchicagomuseum
+# Arts of the Chicago museum
 
 Located in downtown Chicago, the Art Institute is one of the world’s great art museums, housing a collection that spans centuries and the globe.
 
